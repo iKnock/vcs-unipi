@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sun-web-app PUBLIC "-//Sun Microsystems, Inc.//DTD GlassFish Application Server 3.0 Servlet 3.0//EN" "http://www.sun.com/software/appserver/dtds/sun-web-app_3_0-0.dtd">
+<sun-web-app error-url="">
+    <security-role-mapping>
+        <role-name>SystemAdmin</role-name>
+        <group-name>System Admin</group-name>
+    </security-role-mapping>
+    <security-role-mapping>
+        <role-name>SecurityPersonnel</role-name>
+        <group-name>Security Personnel</group-name>
+    </security-role-mapping>
+    <security-role-mapping>
+        <role-name>Employee</role-name>
+        <group-name>Employee</group-name>
+    </security-role-mapping>
+</sun-web-app>
+
