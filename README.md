@@ -19,3 +19,4 @@ organize our application we will be going to use the following stack of technolo
         `IV.Java persistence technology(JPA)`    
         `V.JAAS`    
         `VI.Mysql`    
+        `VII.Glassfish Application Server`
