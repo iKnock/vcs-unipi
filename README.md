@@ -1,7 +1,7 @@
 # vcs-unipi
 ## visitor check in system for university of pisa
 This system is developed for a term project of the course in title **"concurrent and distributed systems"**. The project is **Distributed multithreaded application** that exploits the power of Java EE 7 freamwork. The idea is to create and manage a system that handles **visitors check-In** (Entrance) to a certain compound (university, research center, security firm or else…) in a distributed manner which consists of different actors like **security personnel** at the gate, the **visitor**, the **inviter** (who invite the visitor), the **security Guard supervisors** who are accessing the system from different places (Computers) with different authorization level.
-The system will be a web based system so that users of the system which are located at different nodes can access the system seamlessly. 
+The system will be a web based system so that users of the system which are located at different nodes can access the system seamlessly.   
 The functional requirements of our system are the following  
         1.	Schedule Appointment: This functional requirement is essential for the inviter to register the visitor’s by putting all the 
         necessary information of the visitor on the system and place an appointment for the visitor prior to the visitor arrival at the 
