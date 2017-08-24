@@ -11,8 +11,8 @@ The functional requirements of our system are the following
         moves out of the compound (like the time he moves out).      
         4.**`View Visitors History:`** This functionality is useful to review the past visiting activities and answer questions like who getsin, when he/she gets in and where do they get in (or who invites them to get in).       
           
-To develop this web based application we will use a database to store the information and access that information accordingly. In order to 
-organize our application we will be going to use the following stack of technologies  
+To develop this web based application I use a database to store the information and access that information accordingly. In order to 
+organize the application I used the following JavaEE related stack of technologies  
         `I.Java server pages(JSP)`    
         `II.Servlet`    
         `III.Enterprise java beans(EJB)`    
